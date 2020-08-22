@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Best Stream Ever",
+      "id": 1
+    },
+    {
+      "title": "Newest Stream",
+      "description": "New new new",
+      "id": 3
+    },
+    {
+      "title": "Prog Navigation",
+      "description": "this is new stream.... The greatest stream",
+      "userId": "114462032087273149665",
+      "id": 6
+    },
+    {
+      "title": "This is stream #2",
+      "description": "asfasf",
+      "userId": "114462032087273149665",
+      "id": 7
+    },
+    {
+      "title": "New Stream",
+      "description": "sfsdg",
+      "userId": "114462032087273149665",
+      "id": 8
+    },
+    {
+      "title": "New User Stream",
+      "description": "sdhsdh",
+      "userId": "113900756444736476630",
+      "id": 9
+    },
+    {
+      "title": "aaman007.r stream #1",
+      "description": "sfggsgd",
+      "userId": "116139675399664282264",
+      "id": 10
+    }
+  ]
+}
